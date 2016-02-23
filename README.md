@@ -3,6 +3,7 @@
 The project has moved to KDE infrastructure.
 
 Project website: https://projects.kde.org/projects/playground/base/plasma-pk-updates
+
 Project bugzilla: https://bugs.kde.org/ (product is plasma-pk-updates)
 
 Plasma applet for software updates using PackageKit
